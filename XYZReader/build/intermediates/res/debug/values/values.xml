@@ -220,6 +220,9 @@
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/C:/Users/DJ/AndroidStudioProjects/dNANODEGREE/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="detail_backdrop_height">256dp</dimen>
     <!-- From: file:/C:/Users/DJ/AndroidStudioProjects/dNANODEGREE/xyzreader/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
     <dimen name="detail_body_bottom_margin">88dp</dimen>
