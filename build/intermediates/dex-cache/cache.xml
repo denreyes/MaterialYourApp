@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-c99dc657b16be573e1429fad0bfcfcf22c579722.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d03f34669b51faeee2927159c042272ef4bb0fe6.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-66bce4486ce10f5b59a103a22d1b40d693ab1a85.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-86f0c4e7a49e95ca4fad0b8ae67b12bb626b8ede.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-bc9e6e29f784e2a7b1d6c36cd723c8aab9f73a45.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-8d84c80b307b185c8ee2bebe8a1b30a3c7ac142a.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-5c9ad673a9ee301d3c5642d49869e25ef286105a.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-bf4908bfd4517f049dfd8fcc270a875b2dc389aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7b91d093f754da8ecc4696ff47b7cf35bffd0e1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-d01dbfe14fb34f2eaca82559245b1596ad41c013.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-41dd5fba4ad88875350e5e95f43ab500fb5604d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\DJ\AndroidStudioProjects\dNANODEGREE\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-3e4727906017bf0e1028a6f236a908e9423c2434.jar" />
+    </item>
+
+</items>
