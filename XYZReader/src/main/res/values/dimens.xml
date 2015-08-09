@@ -9,4 +9,7 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="detail_backdrop_height">256dp</dimen>
 
+    <dimen name="side_keyline">16dp</dimen>
+    <dimen name="sub_keyline">48dp</dimen>
+    <dimen name="betwixt_keyline">8dp</dimen>
 </resources>
