@@ -98,6 +98,9 @@
     <color name="shadow_mid_color">#14000000</color>
     <color name="shadow_start_color">#44000000</color>
     <color name="snackbar_background_color">#323232</color>
+    <!-- From: file:/C:/Users/DJ/AndroidStudioProjects/dNANODEGREE/xyzreader/XYZReader/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="subtl">#6000</color>
     <!-- From: file:/C:/Users/DJ/AndroidStudioProjects/dNANODEGREE/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
@@ -1594,10 +1597,6 @@
         <item name="colorPrimary">@color/theme_primary</item>
         <item name="colorPrimaryDark">@color/theme_primary_dark</item>
         <item name="colorAccent">@color/theme_accent</item>
-        <item name="android:fitsSystemWindows">true</item>
-    </style>
-    <style name="Theme.Bacon.Detail">
-        <item name="android:windowTranslucentStatus">true</item>
     </style>
     <!-- From: file:/C:/Users/DJ/AndroidStudioProjects/dNANODEGREE/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
